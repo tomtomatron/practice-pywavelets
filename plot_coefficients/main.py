@@ -65,9 +65,9 @@ while count<wp.maxlevel-1:
 
   # update paths for wavelet packet 
   count=count+1
-  sh=sh+'h'
-  sv=sv+'v'
-  sd=sd+'d'
+  sh=sa+'h'
+  sv=sa+'v'
+  sd=sa+'d'
   sa=sa+'a'
 
 # plot
